@@ -29,7 +29,7 @@ int main(int argc, char const *argv[])
     break;
   case 5:
     result = (int)firstNumber % (int)secondNumber;
-    printf("\n\nThe modulus of %.0f and %.0f is %.0f\n\n", firstNumber, secondNumber, result);
+    printf("\n\nThe modulus of %.0f and %.0f is %d\n\n", firstNumber, secondNumber, result);
     break;
 
   default:
