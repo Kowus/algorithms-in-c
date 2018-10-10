@@ -17,3 +17,4 @@
 - [Sum/average of 'n' odd/even numbers](./sum_of_n_odd_even/main.c)
 
 - [Swap](./swap/main.c)
+- [Swap II](./swap_ii/main.c)
