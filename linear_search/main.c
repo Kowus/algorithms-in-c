@@ -1,13 +1,13 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdbool.h>
 
 main(int argc, char const *argv[])
 {
   int i;
   int target;
-  printf("\n\nPlease enter a number:\t");
+  bool found = false;
+  printf("\nPlease enter a number:\t");
   scanf("%d", &target);
-  int found = 0;
 
   int numbers[10] = {1, 2, 5, 16, 0, -1, 15, 35, 9, 100};
 
@@ -15,7 +15,7 @@ main(int argc, char const *argv[])
   {
     if (target == numbers[i])
     {
-      found = !found;
+      found = true;
       break;
     }
   }

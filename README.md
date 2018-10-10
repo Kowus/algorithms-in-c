@@ -2,9 +2,13 @@
 
 ## Algorithms in C
 
+### B
+
+- [Binary Search](./binary_search/main.c)
+
 ### L
 
-- [Linear Search](./simple_calculator/simple_calculator.c)
+- [Linear Search](./linear_search/main.c)
 
 ### S
 
