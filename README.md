@@ -5,6 +5,7 @@
 ### B
 
 - [Binary Search](./binary_search/main.c)
+- [Bubble Sort](./bubble_sort/main.c)
 
 ### L
 
