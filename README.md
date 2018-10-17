@@ -11,6 +11,10 @@
 
 - [Linear Search](./linear_search/main.c)
 
+### M
+
+- [Operations on Matrices](./matrices/main.c)
+
 ### S
 
 - [Simple Calculator](./simple_calculator/simple_calculator.c)

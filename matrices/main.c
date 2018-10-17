@@ -52,6 +52,15 @@ int main(int argc, char *argv[])
       printf("\t%d", c[i][j]);
     }
   }
+
+  for (j = 0; j < m; j++)
+  {
+    printf("\n");
+    for (i = 0; i < n; i++)
+    {
+      printf("\t%d", c[i][j]);
+    }
+  }
   printf("\n");
   return 0;
 }
