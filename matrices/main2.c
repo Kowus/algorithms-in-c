@@ -26,5 +26,29 @@ int main(int argc, char const *argv[])
     }
   }
 
+  getch();
+
+  printf("\nMatrix A");
+  printf("\n========\n");
+  for (i = 0; i < 3; i++)
+  {
+    printf("\n");
+    for (j = 0; j < 3; j++)
+    {
+      printf("\t%d", a[i][j]);
+    }
+  }
+
+  printf("\nMatrix B");
+  printf("\n========\n");
+  for (i = 0; i < 3; i++)
+  {
+    printf("\n");
+    for (j = 0; j < 3; j++)
+    {
+      printf("\t%d", b[i][j]);
+    }
+  }
+
   return 0;
 }
