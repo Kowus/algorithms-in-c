@@ -44,6 +44,8 @@ int main(int argc, char *argv[])
     }
   }
 
+  printf("\n\nCofactor");
+  printf("\n==========");
   for (i = 0; i < m; i++)
   {
     printf("\n");
@@ -52,6 +54,9 @@ int main(int argc, char *argv[])
       printf("\t%d", c[i][j]);
     }
   }
+
+  printf("\n\nTransposed");
+  printf("\n==========");
 
   for (j = 0; j < m; j++)
   {
