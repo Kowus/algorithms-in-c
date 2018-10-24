@@ -13,7 +13,8 @@
 
 ### M
 
-- [Operations on Matrices](./matrices/main.c)
+- [Matrices: Determinants, CoFactor, Inverse](./matrices/main.c)
+- [Matrices: Multiplication](./matrices/main2.c)
 
 ### S
 
