@@ -7,21 +7,24 @@ int main(int argc, char const *argv[])
   scanf("%d", &m);
   printf("Please enter the number of Columns:\t");
   scanf("%d", &n);
+  printf("\n");
 
   for (i = 0; i < 3; i++)
   {
     for (j = 0; j < 3; j++)
     {
-      printf("\nPlease enter the element for matrix a[%d][%d]:\t", i, j);
+      printf("Please enter the element for matrix a[%d][%d]:\t", i, j);
       scanf("%d", &a[i][j]);
     }
   }
 
+  printf("\n");
+
   for (i = 0; i < 3; i++)
   {
     for (j = 0; j < 3; j++)
     {
-      printf("\nPlease enter the element for matrix b[%d][%d]:\t", i, j);
+      printf("Please enter the element for matrix b[%d][%d]:\t", i, j);
       scanf("%d", &b[i][j]);
     }
   }
@@ -50,7 +53,7 @@ int main(int argc, char const *argv[])
     }
   }
   printf("\n\nMatrix A * Matrix B");
-  printf("\n========");
+  printf("\n====================");
 
   for (i = 0; i < 3; i++)
     for (j = 0; j < 3; j++)
@@ -58,7 +61,6 @@ int main(int argc, char const *argv[])
 
   for (i = 0; i < 3; i++)
   {
-    printf("\n");
     for (j = 0; j < 3; j++)
       for (k = 0; k < 3; k++)
         c[i][j] = c[i][j] + a[i][k] * b[k][j];
