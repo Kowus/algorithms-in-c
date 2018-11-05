@@ -7,7 +7,7 @@ main(int argc, char const *argv[])
 
   for (i = 0; i < n; i++)
   {
-    printf("\nPlease enter element %d", i + 1);
+    printf("\nPlease enter element %d:\t", i + 1);
     scanf("%d", &a[i]);
   }
 
