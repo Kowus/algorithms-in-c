@@ -7,15 +7,24 @@
 - [Binary Search](./binary_search/main.c)
 - [Bubble Sort](./bubble_sort/main.c)
 
+
 ### L
 
 - [Linear Search](./linear_search/main.c)
+
 
 ### M
 
 - [Matrices: Determinants, CoFactor, Inverse](./matrices/main.c)
 - [Matrices: Multiplication](./matrices/main2.c)
 
+
+
+### R
+-[Reverse a Number](./reverse/number.c)
+
+
+  
 ### S
 
 - [Simple Calculator](./simple_calculator/simple_calculator.c)
