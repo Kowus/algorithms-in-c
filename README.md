@@ -19,6 +19,7 @@
 
 - [Factorial of a Number](./factorial/main.c)
 - [Factorial of a Number with Recursion](./factorial/main2.c)
+- [Factors of a Number](./numbers/factors.c)
 - [Fibonnaci Series](./fibonnacci/main.c)
 
 ### L
