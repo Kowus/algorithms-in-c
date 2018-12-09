@@ -7,6 +7,10 @@
 - [Binary Search](./binary_search/main.c)
 - [Bubble Sort](./bubble_sort/main.c)
 
+### E
+
+- [Even or Odd Number](./even-or-odd/main.c)
+
 ### F
 
 - [Factorial of a Number](./factorial/main.c)
