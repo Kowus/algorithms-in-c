@@ -6,12 +6,14 @@ int main(int argc, char const *argv[])
   int number, origNum, rem, res = 0, noOfDigits;
   printf("Please enter a number:\t");
   scanf("%d", &number);
+
   origNum = number;
   while (origNum)
   {
     origNum /= 10;
     ++noOfDigits;
   }
+
   origNum = number;
 
   while (origNum)
