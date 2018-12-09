@@ -33,6 +33,10 @@
 - [Matrices: Determinants, CoFactor, Inverse](./matrices/main.c)
 - [Matrices: Multiplication](./matrices/main2.c)
 
+### P
+
+- [Palindrome](./reverse/number.c)
+
 ### R
 
 - [Reverse a Number](./reverse/number.c)
