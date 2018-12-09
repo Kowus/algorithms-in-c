@@ -2,6 +2,10 @@
 
 ## Algorithms in C
 
+### A
+
+- [Armstrong Number](./armstrong/main.c)
+
 ### B
 
 - [Binary Search](./binary_search/main.c)
