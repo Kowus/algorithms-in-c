@@ -36,6 +36,7 @@
 ### P
 
 - [Palindrome](./reverse/number.c)
+- [Perfect Number](./numbers/factors.c)
 
 ### R
 

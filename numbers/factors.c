@@ -2,7 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
-  int c, i = 2, fac;
+  int c, i = 2, facSum = 0;
 
   printf("Please enter a digit:\t");
   scanf("%d", &c);
@@ -13,8 +13,17 @@ int main(int argc, char const *argv[])
   {
 
     if (c % i == 0)
+    {
       printf("%d ", i);
+      if (i != c)
+        facSum += i;
+    }
   }
+
+  if (facSum == c)
+    printf("\n%d is a perfect number", c);
+  else
+    printf("\n%d is not a perfect number", c);
 
   return 0;
 }
