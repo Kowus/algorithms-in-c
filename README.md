@@ -19,6 +19,7 @@
 
 ### L
 
+- [Length of a String](./strings/length.c)
 - [Linear Search](./linear_search/main.c)
 - [Largest Among 3 Numbers](./smallest-greatest/largest.c)
 
