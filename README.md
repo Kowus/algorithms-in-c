@@ -30,7 +30,7 @@
 
 ### R
 
--[Reverse a Number](./reverse/number.c)
+- [Reverse a Number](./reverse/number.c)
 
 ### S
 
