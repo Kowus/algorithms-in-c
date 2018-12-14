@@ -25,7 +25,6 @@
 
 ### L
 
-- [Length of a String](./strings/length.c)
 - [Linear Search](./linear_search/main.c)
 - [Largest Among 3 Numbers](./smallest-greatest/largest.c)
 
@@ -47,6 +46,8 @@
 
 - [Simple Calculator](./simple_calculator/simple_calculator.c)
 - [Smallest Among 3 Numbers](./smallest-greatest/smallest.c)
+- [Strings: Change the case of characters in a string](./strings/case-toggle.c)
+- [Strings: Length of a String](./strings/length.c)
 - [Sum of Digits of a Number](./numbers/sum-of-digits.c)
 - [Sum/average of 'n' odd/even numbers](./sum_of_n_odd_even/main.c)
 - [Swap](./swap/main.c)
