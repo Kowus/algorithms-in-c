@@ -45,6 +45,7 @@
 ### S
 
 - [Simple Calculator](./simple_calculator/simple_calculator.c)
+- [Sliding Window](./networks/sliding_window.c)
 - [Smallest Among 3 Numbers](./smallest-greatest/smallest.c)
 - [Strings: Change the case of characters in a string](./strings/case-toggle.c)
 - [Strings: Length of a String](./strings/length.c)
